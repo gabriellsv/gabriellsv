@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
+<div>
    <a href="https://github.com/gabriellsv">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellsv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellsv&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -15,7 +15,6 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
 <br>
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
@@ -25,6 +24,4 @@
  <a href="https://api.whatsapp.com/send?phone=31982269992" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2353D769?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="mailto:gabrielgoncalves80@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/gabriellsv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- 
-  
 </div>
